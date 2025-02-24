@@ -1,0 +1,20 @@
+{
+  "select_language": "ಭಾಷೆಯನ್ನು ಆಯ್ಕೆಮಾಡಿ",
+  "welcome": "ಸ್ವಾಗತ",
+  "continue_with_google": "ಗೂಗಲ್‌ನೊಂದಿಗೆ ಮುಂದುವರಿಯಿರಿ",
+  "dashboard": "ಡ್ಯಾಶ್‌ಬೋರ್ಡ್",
+  "unique_id": "ಅನನ್ಯ ಐಡಿ",
+  "add_worker": "ಕರ್ಮಿಕನನ್ನು ಸೇರಿಸಿ",
+  "name": "ಹೆಸರು",
+  "contact": "ಸಂಪರ್ಕ",
+  "skills": "ಕೌಶಲ್ಯಗಳು",
+  "location": "ಸ್ಥಳ",
+  "workers": "ಕರ್ಮಿಕರು",
+  "complaint": "ದೂರು",
+  "submit_complaint": "ದೂರು ಸಲ್ಲಿಸಿ",
+  "complaints": "ದೂರುಗಳು",
+  "logout": "ಲಾಗ್‌ಔಟ್",
+  "admin_dashboard": "ನಿರ್ವಹಣಾ ಡ್ಯಾಶ್‌ಬೋರ್ಡ್",
+  "all_workers": "ಎಲ್ಲಾ ಕಾರ್ಮಿಕರು",
+  "all_complaints": "ಎಲ್ಲಾ ದೂರುಗಳು"
+}

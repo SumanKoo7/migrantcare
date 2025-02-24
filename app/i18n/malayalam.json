@@ -1,0 +1,20 @@
+{
+  "select_language": "ഭാഷ തിരഞ്ഞെടുക്കുക",
+  "welcome": "സ്വാഗതം",
+  "continue_with_google": "ഗൂഗിളുമായി തുടരുക",
+  "dashboard": "ഡാഷ്ബോർഡ്",
+  "unique_id": "അദ്വിതീയ ഐഡി",
+  "add_worker": "തൊഴിലാളിയെ ചേർക്കുക",
+  "name": "പേര്",
+  "contact": "ബന്ധപ്പെടുക",
+  "skills": "കൗശലങ്ങൾ",
+  "location": "സ്ഥലം",
+  "workers": "തൊഴിലാളികൾ",
+  "complaint": "പരാതി",
+  "submit_complaint": "പരാതി സമർപ്പിക്കുക",
+  "complaints": "പരാതികൾ",
+  "logout": "ലോഗൗട്ട്",
+  "admin_dashboard": "അഡ്മിൻ ഡാഷ്ബോർഡ്",
+  "all_workers": "എല്ലാ തൊഴിലാളികളും",
+  "all_complaints": "എല്ലാ പരാതികളും"
+}

@@ -1,0 +1,20 @@
+{
+  "select_language": "மொழியைத் தேர்ந்தெடு",
+  "welcome": "வரவேற்பு",
+  "continue_with_google": "கூகுளுடன் தொடரவும்",
+  "dashboard": "டாஷ்போர்டு",
+  "unique_id": "தனித்துவ ஐடி",
+  "add_worker": "பணியாளரைச் சேர்",
+  "name": "பெயர்",
+  "contact": "தொடர்பு",
+  "skills": "திறன்கள்",
+  "location": "இடம்",
+  "workers": "பணியாளர்கள்",
+  "complaint": "புகார்",
+  "submit_complaint": "புகாரை சமர்ப்பி",
+  "complaints": "புகார்கள்",
+  "logout": "வெளியேறு",
+  "admin_dashboard": "நிர்வாக டாஷ்போர்டு",
+  "all_workers": "அனைத்து பணியாளர்கள்",
+  "all_complaints": "அனைத்து புகார்கள்"
+}

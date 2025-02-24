@@ -1,0 +1,20 @@
+{
+  "select_language": "भाषा चुनें",
+  "welcome": "स्वागत है",
+  "continue_with_google": "गूगल के साथ जारी रखें",
+  "dashboard": "डैशबोर्ड",
+  "unique_id": "अद्वितीय आईडी",
+  "add_worker": "कामगार जोड़ें",
+  "name": "नाम",
+  "contact": "संपर्क",
+  "skills": "कौशल",
+  "location": "स्थान",
+  "workers": "कामगार",
+  "complaint": "शिकायत",
+  "submit_complaint": "शिकायत दर्ज करें",
+  "complaints": "शिकायतें",
+  "logout": "लॉगआउट",
+  "admin_dashboard": "एडमिन डैशबोर्ड",
+  "all_workers": "सभी कामगार",
+  "all_complaints": "सभी शिकायतें"
+}

@@ -1,0 +1,20 @@
+{
+  "select_language": "భాషను ఎంచుకోండి",
+  "welcome": "స్వాగతం",
+  "continue_with_google": "గూగుల్‌తో కొనసాగండి",
+  "dashboard": "డాష్‌బోర్డ్",
+  "unique_id": "అనన్య ఐడి",
+  "add_worker": "కార్మికుడిని జోడించండి",
+  "name": "పేరు",
+  "contact": "సంప్రదింపు",
+  "skills": "నైపుణ్యాలు",
+  "location": "స్థానం",
+  "workers": "కార్మికులు",
+  "complaint": "ఫిర్యాదు",
+  "submit_complaint": "ఫిర్యాదు సమర్పించండి",
+  "complaints": "ఫిర్యాదులు",
+  "logout": "లాగ్ అవుట్",
+  "admin_dashboard": "అడ్మిన్ డాష్‌బోర్డ్",
+  "all_workers": "అన్ని కార్మికులు",
+  "all_complaints": "అన్ని ఫిర్యాదులు"
+}
