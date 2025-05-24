@@ -25,7 +25,11 @@ This project has been published as a research paper. You can read the full journ
 
 ## 📷 Screenshots
 
-> Add screenshots or GIFs of the platform here for better understanding.
+![Home](public/1.png)
+![languages](public/2.png)
+![Authentication](public/3.png)
+![User Dashboard](public/4.png)
+![Admin Dashboard](public/5.png)
 
 ## 💻 Getting Started
 
